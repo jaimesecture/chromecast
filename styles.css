@@ -1,3 +1,15 @@
+p {
+  height: 10cm; 
+  color: red; 
+  padding-top: 10cm;
+  font-size: 80px;
+  text-align: center;
+}
+
+.background {
+  background-color: yellow;
+}
+
 .logo {
   background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
 }
@@ -7,5 +19,5 @@
 }
 
 .splash {
-  background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
+  background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/hero.jpg);
 }
