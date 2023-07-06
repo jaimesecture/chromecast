@@ -6,7 +6,7 @@
   background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
 }
 
-.progressBar {
+.progress {
   background-color: yellow !important;
   color: yellow !important;
 }
