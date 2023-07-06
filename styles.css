@@ -3,10 +3,10 @@
 }
 
 .logo {
-  background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
+  background-image: url(https://sonora-images-prod-eu-west-1-697927589459.s3.eu-west-1.amazonaws.com/chromecast/logo.png);
 }
 
 .splash {
-  background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/hero.jpg);
+  background-image: url(https://sonora-images-prod-eu-west-1-697927589459.s3.eu-west-1.amazonaws.com/chromecast/hero.jpg);
   background-size: cover;
 }
