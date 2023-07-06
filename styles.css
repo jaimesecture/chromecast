@@ -6,11 +6,6 @@
   background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
 }
 
-.progress {
-  background-color: yellow !important;
-  color: yellow !important;
-}
-
 .splash {
   background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/hero.jpg);
   background-size: cover;
