@@ -1,14 +1,14 @@
-// Testing comments
 .background {
-  background-color: #000000;
+  background-color: yellow;
 }
 
 .logo {
   background-image: url(https://raw.githubusercontent.com/jaimesecture/chromecast/main/logo.png);
 }
 
-.cast-media-player .progressBar {
-  background-color: red !important;
+.progressBar {
+  background-color: yellow !important;
+  color: yellow !important;
 }
 
 .splash {
